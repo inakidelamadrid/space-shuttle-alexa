@@ -1,0 +1,5 @@
+bin/
+include/
+LIB/
+lib/
+**/*.sw[n|o|p]
