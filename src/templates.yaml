@@ -1,0 +1,3 @@
+welcome: Bienvenido a tu juego Tomás!. Ahora comenzaremos a realizar un despegue. Listo?
+
+takeoff: Listos para el despegue! Contemos! {{ words|join(", ") }} 
